@@ -1,16 +1,27 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJpd2c2M3BqMnhvZTJxZnJ5dm14dnRmemg4Nmgyd3E2OTdmMHE5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7c8QeB0VMddFOuu4iR/giphy.gif" width="600"/>
+</div>
 
-<!--
-**AJLEKCA/AJLEKCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Всем привет, меня зовут Александра 😉👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои интересы: <br>
+💾 DS (Data Science), <br>
+📊 DA (Data Analyst), <br>
+🎲 ML (Machine Learning), <br>
+📚 DL (Deep Learning).
+</p>
+
+###
+
+<h2 align="left"> Факт обо ине: ⚡</h2>
+<p align="left"> 
+Однажды, я решила сменить координально профессию, и мне открылся этот удивительный мир цифр...🖤
+    
+</p>
+
+###
+
+
+
